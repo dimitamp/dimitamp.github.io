@@ -1,0 +1,19 @@
+'use strict';
+
+// Wit.ai parameters
+const WIT_TOKEN = 'WIT-SERVER-TOKEN';
+// Messenger API parameters
+const FB_PAGE_TOKEN = 'FB-PAGE-TOKEN'
+const FB_VERIFY_TOKEN = 'FB-VERIFY-TOKEN';
+//mongodb parameters
+const DB_USERNAME="MONGO-DB-USERNAME";
+const DB_PASSWORD="MONGO-DB-PASSWORD";
+const NEWS_API_KEY="GOOGLE-NEWS-API-KEY"
+module.exports = {
+  WIT_TOKEN: WIT_TOKEN,
+  FB_PAGE_TOKEN: FB_PAGE_TOKEN,
+  FB_VERIFY_TOKEN: FB_VERIFY_TOKEN,
+  DB_USERNAME : DB_USERNAME,
+  DB_PASSWORD : DB_PASSWORD,
+  NEWS_API_KEY : NEWS_API_KEY,
+};

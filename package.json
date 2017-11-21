@@ -1,0 +1,56 @@
+{
+  "name": "Wit-Facebook",
+  "version": "1.0.0",
+  "description": "Simple Wit-Facebook",
+  "engines": {
+    "node": "6.11.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "bot": "node bot.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "jest": {
+    "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+    "unmockedModulePathPatterns": [
+      "core-js/.*",
+      "sshpk/.*"
+    ]
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^20.0.3",
+    "babel-polyfill": "^6.26.0",
+    "bl": "^1.2.1",
+    "body-parser": "^1.17.2",
+    "chi-squared": "^1.1.0",
+    "express": "^4.15.4",
+    "fb": "^2.0.0",
+    "items-promise": "^1.0.0",
+    "jest-cli": "^20.0.4",
+    "mongodb": "^2.2.31",
+    "natural": "^0.5.4",
+    "node-schedule": "^1.2.5",
+    "node-stopwords-filter": "0.0.1",
+    "node-uuid": "^1.4.8",
+    "node-wit": "^3.3.2",
+    "promise": "^8.0.1",
+    "req-fast": "^0.2.17",
+    "request": "^2.81.0",
+    "sanitize-html": "^1.14.1",
+    "superagent": "^3.6.0",
+    "url": "^0.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunkim/Wit-Facebook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hunkim/Wit-Facebook/issues"
+  },
+  "homepage": "https://github.com/hunkim/Wit-Facebook#readme"
+}
