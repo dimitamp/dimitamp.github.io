@@ -1,9 +1,14 @@
+UxBot 
 
-The site is open source (here's all the code!) and is a tool _for_ and _by_ the community.
+It is created and maintained by Dimitrios Tampakis (contact details: dimitamp@auth.gr)
 
-### Goals
+# Goals
 
-- Design and development of a conversational Bot for a user personalized web
+Design and development of a conversational Bot for a user personalized web
+
+## Description
+
+This is an open source web app created with nodejs and hosted on heroku. It provides the basic conversation functionality for a Messenger Bot using the Wit.ai platform. This bot can provide the user news about specific domains as well as personalized news. It is used in combunation with UxExtension, which can be found at [Chrome Web Store][https://chrome.google.com/webstore/category/extensions?hl=el]. 
 
 #### Fix/Edit Content
 
