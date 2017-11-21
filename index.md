@@ -1,6 +1,6 @@
-UxBot 
 
-It is created and maintained by Dimitrios Tampakis (contact details: dimitamp@auth.gr)
+
+It's an open source project created and maintained by Dimitrios Tampakis (contact details: dimitamp@auth.gr)
 
 # Goals
 
