@@ -19,18 +19,18 @@ This is an open source web app created with nodejs and hosted on heroku. It prov
 
 
 
-#### Fix/Edit Content
+### Fix/Edit Content
 
 If you see an error or a place where content should be updated or improved, just fork this repository to your account, make the change you'd like and then submit a pull request. If you don't manage to submit the pull request file an issue at 
  * [issue](https://github.com/dimitamp/dimitamp.github.io/issues/new)
 
-#### Requierements for running
+### Requierements for running
 
 * [Facebook App](https://developers.facebook.com/apps#_=_)
 * [Heroku App](https://www.heroku.com/)
 * [Wit Ai App](https://wit.ai/)
 
-###### Requierements for editing/customizing
+### Requierements for editing/customizing
 
 * [Heroku-Cli](https://devcenter.heroku.com/articles/heroku-cli)
 * [Node](https://nodejs.org/en/)
@@ -42,4 +42,4 @@ _If you have installed [GitHub Desktop](https://desktop.github.com), Git was als
 
 To copy the repository's files from here onto your computer and to view and serve those files locally, at your computer's command line type:
 
-
+https://github.com/dimitamp/dimitamp.github.io.git
