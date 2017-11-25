@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: UxBot
 description: Conversational Bot that provides personalized content
+show_downloads: true
